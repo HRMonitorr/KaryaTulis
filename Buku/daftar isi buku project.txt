@@ -1,0 +1,28 @@
+Daftar Isi
+
+Kata Pengantar
+PRAKATA
+Daftar Isi
+
+Bab 1 : Pengantar Go Language dan Github
+a. Pendahuluan
+b. Tentang Golang dan Github
+c. Tujuan dari aktivitas yang dilakukan
+
+Bab 2: Persiapan Software dan Installasi
+a. Installasi IDE
+b. Installasi Golang
+c. Pembuatan Akun Github
+d. Generate Access Token Github
+e. Mendaftar akun GCF
+
+Bab 3: Langkah Integrasi
+a. Membuat Hak Akses Endpoint
+b. Membuat Package Github API
+c. Mempersiapkan Pseuducode untuk cloud functions
+d. Deployment endpoint 
+e. Dokumentasi
+
+GLOSARIUM
+INDEKS
+PROFIL PENULIS
